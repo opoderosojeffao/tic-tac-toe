@@ -1,2 +1,3 @@
 # tic-tac-toe
-Tic tac toe game in C
+
+Tic tac toe running in the console using C.
